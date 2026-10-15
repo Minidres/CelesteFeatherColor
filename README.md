@@ -3,7 +3,7 @@ Changes the color of the feather in Celeste
 
 An [Everest](https://everestapi.github.io/) mod for [Celeste](http://www.celestegame.com/) that lets you recolor the flying feather.
 
-Instalation Guide
+Installation Guide
 ------------------
 1. Install [Everest/Olympus](https://everestapi.github.io/) for [Celeste](http://www.celestegame.com/).
 2. Download the mod from [GameBanana](https://gamebanana.com/mods/727926) and put the zip in your Mods folder.
@@ -12,7 +12,7 @@ Instalation Guide
 Features
 --------
 
-put menu image here
+![Menu](images/menu.png)   
 
 **Color Presets**
 
