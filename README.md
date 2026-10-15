@@ -32,3 +32,6 @@ The animated presets (Rainbow, the flags, Custom Cycle) share a Color Change Spe
 **Warning flash Settings**
 
 When a feather is about to run out, vanilla flashes Madeline red. You can turn the flash off (she keeps one solid color until the feather runs out), or change the flash color (preset or custom hex).
+
+Contact
+If you find any issues you can find me as @Minidres on discord
