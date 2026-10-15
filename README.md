@@ -12,7 +12,7 @@ Installation Guide
 Features
 --------
 
-![Menu](images/menu.png)   
+![Menu](image/menu.png)
 
 **Color Presets**
 
